@@ -1,19 +1,14 @@
-:spiral_calendar: Atualizado em 22 de agosto de 2021 :heart:
+# LAB - Criando um app de conversor moedas/cambio com Kotlin.
+O curso pode ser acessado na plataforma da [Digital Innovation One](https://digitalinnovation.one/).
 
-<img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/under_construction.gif" />
+## Sobre o Autor
+<img align="left" width="190" height="190" margin-right="150px" src="https://drive.google.com/uc?export=view&id=1Kn8aRAQbLZx9BejvZD2eK8kLhp8j9i5m"> Sou um desenvolvedor Android que ama novos desafios e não perde a oportunidade de aprender coisas novas, sou organizado, pontual e estou sempre disponível para o ajudar, procuro estar cercado de pessoas que extraem o melhor de mim, me ajudando a sempre desempenhar o meu máximo. Por isso, quero compartilhar com vocês um pouco do que sinto quando programo e retribuir com tudo o que sei.
 
-:blush: Este projeto está em estudo. Carga inicial realizada para manter cópia de segurança :blush:
+[![Linkedin Badge](https://img.shields.io/badge/-Ezequiel_Messore-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezequielmessore/)](https://www.linkedin.com/in/ezequielmessore/)  [![Gmail Badge](https://img.shields.io/badge/-ezequielmessore@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezequielmessore@gmail.com)](mailto:ezequielmessore@gmail.com)
 
-<img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
+## <br />Descrição do Lab.
+O objetivo do projeto é criar um App de `Conversão de moedas/cambio` do zero mostrando o processo de desenvolvimento usando Kotlin, uma das linguagens de programação de maior ascensão dos últimos anos. Além disto, desafiar a evolução do App e entregar uma solução mais robusta pensando sempre na melhor experiência do usuário.
 
-# Projeto Digital Innovation One - App Android KOTLIN para Converter Moedas e Cambio 
-Este projeto foi proposto pela Digital Innovation One
-- Link do código original: https://github.com/EzequielMessore/coin-converter
-- Professora: Ezequiel Messore
-- Aula: https://web.digitalinnovation.one/lab/criando-uma-aplicativo-de-conversao-de-moedas-e-cambio/learning/64a9c239-5dc7-4087-b3dc-85e1d9a3ce62
-
-##Descrição
-O objetivo deste projeto é criar um App de conversão de moedas/câmbio, passando por todo o processo de desenvolvimento usando o Kotlin, uma das linguagens de programação de maior ascensão nos últimos anos. Para isso, vamos consumir uma API pública usando as principais bibliotecas e padrões de projeto do Kotlin. Por fim, você é desafiado a entregar seu próprio projeto, incorporando suas próprias evoluções e melhorias! Está preparado?
 ## Aulas e materiais de estudo.
 - Aula - 01: Apresentação pessoal e apresentação do curso.
   - [Apresentação](https://drive.google.com/file/d/1RVBvVZRMpNvu80VWkZD_aP2tno0-fDoX/view)
